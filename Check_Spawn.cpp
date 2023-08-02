@@ -11,6 +11,6 @@ int check_spawn(int x, int y, int z)
 
         x, y, z = rand() % 100 + 1;
     }
-    cout << "Object da duoc tao";
+    
     return x, y, z;
 }
